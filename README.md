@@ -1,8 +1,8 @@
 # Bayesian Sequential Registration for Functional Data
-Code for implementation of Bayesian sequential registration for functional data
+MATLAB code for implementation of Bayesian sequential registration for functional data
 
 ## Set up
-Before running the code, please download the fdasrvf MATLAB package and a constrained piecewise linear least square fit package from the links below.
+Before running the code, please download [the fdasrvf package](https://github.com/jdtuck/fdasrvf_MATLAB) and [the constrained piecewise linear least square fit package](https://www.mathworks.com/matlabcentral/fileexchange/40913-piecewise-linear-least-square-fit) from the links below.
 
 https://github.com/jdtuck/fdasrvf_MATLAB
 
