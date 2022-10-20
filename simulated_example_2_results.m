@@ -1,5 +1,5 @@
 
-load('simulated_example_2_data.mat')
+load('data/simulated_example_2_data.mat')
 
 c_samples = c_smc{N_func};
 d_samples = d_smc{N_func};
