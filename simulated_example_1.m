@@ -5,7 +5,7 @@ addpath(genpath('bspline_tools'))
 addpath(genpath('basis'))
 
 %% Set up
-load('simulated_example_1_data.mat','f_mat','t','tG','M','N','M_gamma', ...
+load('data/simulated_example_1_data.mat','f_mat','t','tG','M','N','M_gamma', ...
     'nbasis','q_basis','prior_params','q_mu','c_mu','gamma','gamma_M','sigma_squared_gt')
 
 q_mat = zeros(M,N);
