@@ -37,8 +37,7 @@ end
 for i = 1:N_func_plot
     figure
     for j = 1:N_samples_plot
-        p = plot(tG,d_samples(index_plot(j),:,i), ...
-                'Color',plot_color,'linewidth',lw);    
+        p = plot(tG,d_samples(index_plot(j),:,i), 'Color',plot_color,'linewidth',lw);    
         p.Color(4) = weight_scale*weights(index_plot(j));        
             hold on
     end
