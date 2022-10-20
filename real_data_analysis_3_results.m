@@ -1,5 +1,5 @@
 
-load('real_data_analysis_3_data.mat')
+load('data/real_data_analysis_3_data.mat')
 
 N_func = 50;
 
