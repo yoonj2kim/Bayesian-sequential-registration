@@ -1,5 +1,5 @@
 
-load('simulated_example_1_data.mat')
+load('data/simulated_example_1_data.mat')
 
 
 weight_scale = 20; % scale up weights for visualization of posterior uncertainty
