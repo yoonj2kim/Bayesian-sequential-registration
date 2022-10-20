@@ -1,6 +1,6 @@
 %% load posterior particles given El Nino years
 
-load('real_data_analysis_2_elnino_data.mat')
+load('data/real_data_analysis_2_elnino_data.mat')
 
 c_samples = c_smc{N_func};
 d_samples = d_smc{N_func};
