@@ -4,9 +4,17 @@ MATLAB code for implementation of [Bayesian sequential registration for function
 ## Set up
 Before running the code, please download [the fdasrvf package](https://github.com/jdtuck/fdasrvf_MATLAB) and [the constrained piecewise linear least square fit package](https://www.mathworks.com/matlabcentral/fileexchange/40913-piecewise-linear-least-square-fit).
 
-## 
+## Code description:
 
+- ['simulate_example.m'](simulate_example.m): This code generates data and results as demonstrated in Section 5.2.
 
+## Datasets:
+
+- 'simulated_example_1_data.mat': Simulated data and estimation results presented in Section 5.2.
+- 'simulated_example_2_data.mat': Simulated data and estimation results presented in Section 5.3.
+- 'real_data_analysis_1_data.mat': Real data analysis on drought intensity of Kaweah river in California (Section 5.4).
+- 'real_data_analysis_2_elnino_data.mat', 'real_data_analysis_2_neutral_data.mat', 'real_data_analysis_2_lanina_data.mat': Real data analysis on sea surface salinity in Pacific Ocean and El Niño-Southern Oscillation (Section 5.5).
+- 'real_data_analysis_3_data.mat': Real data analysis on sequence of repeated patterns in electrocardiogram signals (Section 5.6).
 
 # Reference
 
