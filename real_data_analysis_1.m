@@ -5,7 +5,7 @@ addpath(genpath('bspline_tools'))
 addpath(genpath('basis'))
 
 %% Set up
-load('real_data_analysis_1_data.mat','f_mat','t','tG','M','N','M_gamma','nbasis','q_basis','prior_params')
+load('data/real_data_analysis_1_data.mat','f_mat','t','tG','M','N','M_gamma','nbasis','q_basis','prior_params')
 
 q_mat = zeros(M,N);
 for i = 1:N
