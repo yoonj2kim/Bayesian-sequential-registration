@@ -89,6 +89,9 @@ function [c_update, d_update, sigma_squared_update, w_update, ESS, logpost_updat
     end    
 
     % check ESS and resample if necessary 
+    if sum(w_samples) == 0
+        w_samples = ones(J_particles,1);
+    end
     w_samples = w_samples/sum(w_samples);
     ESS = 1/sum(w_samples.^2);
     if ESS < J_particles/2
