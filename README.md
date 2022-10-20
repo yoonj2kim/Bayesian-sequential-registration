@@ -7,6 +7,8 @@ Before running the code, please download [the fdasrvf package](https://github.co
 ## Code description:
 
 - ['simulate_example.m'](simulate_example.m): This code generates data and results as demonstrated in Section 5.2.
+- ['mcmc_regist.m'](mcmc_regist.m): This function initializes posterior samples for function registration using a MCMC sampler.
+- ['smc_regist.m'](smc_regist.m): Given existing posterior particles, this function allows us to update the posterior particles when a new function arrives.
 
 ## Datasets:
 
