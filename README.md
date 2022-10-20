@@ -9,11 +9,13 @@ Before running the code, please download [the fdasrvf package](https://github.co
 - ['simulate_example.m'](simulate_example.m): This code generates data and results as demonstrated in Section 5.2.
 - ['mcmc_regist.m'](mcmc_regist.m): This function initializes posterior samples for function registration using a MCMC sampler.
 - ['smc_regist.m'](smc_regist.m): Given existing posterior particles, this function allows us to update the posterior particles when a new function arrives.
-- [simulated_example_1_results.m](simulated_example_1_results.m): This code reproduces figures for simulated example 1 in Section 5.2.
-- [simulated_example_2_results.m](simulated_example_2_results.m): This code reproduces figures for simulated example 2 in Section 5.3.
-- [real_data_analysis_1_results.m](real_data_analysis_1_results.m): This code reproduces figures for drought intensity real data analysis in Section 5.4.
-- [real_data_analysis_2_results.m](real_data_analysis_2_results.m): This code reproduces figures for sea surface salinity real data analysis in Section 5.5.
-- [real_data_analysis_3_results.m](real_data_analysis_3_results.m): This code reproduces figures for electrocardiogram real data analysis in Section 5.6.
+
+- Code to reproduce figures in Section 5
+  - [simulated_example_1_results.m](simulated_example_1_results.m): This code reproduces figures for simulated example 1 in Section 5.2.
+  - [simulated_example_2_results.m](simulated_example_2_results.m): This code reproduces figures for simulated example 2 in Section 5.3.
+  - [real_data_analysis_1_results.m](real_data_analysis_1_results.m): This code reproduces figures for drought intensity real data analysis in Section 5.4.
+  - [real_data_analysis_2_results.m](real_data_analysis_2_results.m): This code reproduces figures for sea surface salinity real data analysis in Section 5.5.
+  - [real_data_analysis_3_results.m](real_data_analysis_3_results.m): This code reproduces figures for electrocardiogram real data analysis in Section 5.6.
 
 ## Datasets:
 
