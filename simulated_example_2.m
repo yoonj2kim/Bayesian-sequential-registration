@@ -36,7 +36,7 @@ div_iter_by = 1000; % proposal variance adjustment every 'div_iter_by' number of
 target_rate = [0.2 0.55]; % target MH acceptance rate
 
 qs = q_mat(:,1:N_func); % given SRVFs
-total_mcmc = 10000; % total number of MCMC iterations
+total_mcmc = 500000; % total number of MCMC iterations
 
 % run MCMC
 [c_samples, d_samples, sigma_samples, log_post, kappa_prop, ...
