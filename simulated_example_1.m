@@ -17,7 +17,7 @@ end
 % Derive posterior samples given functions 1 through
 % N_func using MCMC.
 
-N_func = 4;
+N_func = 30;
 
 % initial samples
 c_ini = zeros(1,nbasis);
