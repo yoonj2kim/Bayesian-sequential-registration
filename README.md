@@ -35,8 +35,15 @@ Before running the code, please download [the fdasrvf package](https://github.co
 
 # Reference
 
-Guido Albertin (2022). Piecewise linear least square fit (https://www.mathworks.com/matlabcentral/fileexchange/40913-piecewise-linear-least-square-fit), MATLAB Central File Exchange. Retrieved October 18, 2022.
+British Crown Copyright Met Office. “EN.4.2.2 data,” 2021.
 
-tetonedge (2022). fdasrvf (https://github.com/jdtuck/fdasrvf_MATLAB), GitHub. Retrieved October 18, 2022.
+Guido Albertin (2022). Piecewise linear least square fit (https://www.mathworks.com/matlabcentral/fileexchange/40913-piecewise-linear-least-square-fit), MATLAB Central File Exchange. Retrieved Oct, 2022.
 
-Yoonji Kim, Oksana Chkrebtii, and Sebastian Kurtek, “Sequential Bayesian Registration for Functional Data,” arXiv:2203.12005 [stat.ME], Mar. 2022.
+Sebastian Kurtek, Wei Wu, Gary E. Christensen and Anuj Srivastava. "Segmentation, alignment and statistical analysis of biosignals with application to disease classification," Journal of Applied Statistics, 2013.
+
+tetonedge (2022). fdasrvf (https://github.com/jdtuck/fdasrvf_MATLAB), GitHub. Retrieved Oct, 2022.
+
+Yoonji Kim, Oksana Chkrebtii, and Sebastian Kurtek, “Sequential Bayesian Registration for Functional Data,” arXiv:2203.12005 [stat.ME], 2022.
+
+Yoonji Kim and Nancy Grulke. “80-year meteorological record and drought indices for Sequoia National Park and Sequoia National Monument, CA,” Forest Service
+Research Data Archive, 2022.
